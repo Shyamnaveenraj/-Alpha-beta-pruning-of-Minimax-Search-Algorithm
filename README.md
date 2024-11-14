@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: THAMARAISELVAN V     </h3>
-<h3>Register Number: 212221230115       </h3>
+<h3>Name: Shyam naveen raj    </h3>
+<h3>Register Number: 212221230099       </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
